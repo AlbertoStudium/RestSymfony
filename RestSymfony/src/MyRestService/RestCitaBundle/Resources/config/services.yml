@@ -1,0 +1,4 @@
+services:
+#    my_rest_service_rest_cita.example:
+#        class: MyRestService\RestCitaBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
