@@ -1,0 +1,4 @@
+my_rest_service_rest_cita:
+    resource: "@MyRestServiceRestCitaBundle/Resources/config/routing.yml"
+    prefix:   /
+
